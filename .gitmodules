@@ -1,0 +1,24 @@
+[submodule "indentLine"]
+url = https://github.com/Yggdroot/indentLine
+path = pack/vendor/start/indentLine
+[submodule "bundle/nginx.vim"]
+	path = bundle/nginx.vim
+	url = https://github.com/vim-scripts/nginx.vim
+[submodule "bundle/vim-jade"]
+	path = bundle/vim-jade
+	url = https://github.com/digitaltoad/vim-jade
+[submodule "bundle/vim-ls"]
+	path = bundle/vim-ls
+	url = https://github.com/gkz/vim-ls.git
+[submodule "bundle/vim-stylus"]
+	path = bundle/vim-stylus
+	url = https://github.com/wavded/vim-stylus
+[submodule "bundle/vim-less"]
+	path = bundle/vim-less
+	url = https://github.com/groenewege/vim-less
+[submodule "bundle/vim-pug"]
+	path = bundle/vim-pug
+	url = https://github.com/digitaltoad/vim-pug
+[submodule "vim-solidity"]
+	path = bundle/vim-solidity
+	url = https://github.com/tomlion/vim-solidity
