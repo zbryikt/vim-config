@@ -29,5 +29,5 @@
         path = bundle/vim-glsl
         url = https://github.com/tikhomirov/vim-glsl
 [submodule "pack/github/opt/copilot.vim"]
-	path = pack/github/start/copilot.vim
+	path = pack/github/opt/copilot.vim
 	url = https://github.com/github/copilot.vim.git
